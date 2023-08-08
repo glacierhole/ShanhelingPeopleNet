@@ -9,5 +9,6 @@
 * 主要程序           netgraphicSHL.rmd
 * 报告结果           netgraphicSHL.html
 
+![image](https://github.com/glacierhole/ShanhelingPeopleNet/assets/66707376/abcfe2b3-fe0b-4085-ad00-80b011ea344a)
 
 
